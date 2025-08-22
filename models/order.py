@@ -1,5 +1,5 @@
 from typing import Any, Dict, List, Optional
-from pydantic import BaseModel as PBase
+from pydantic import BaseModel as PBase, Field
 
 class Contact(PBase):
     name: Optional[str] = None
@@ -12,10 +12,10 @@ class OrderItem(PBase):
     size_or_weight: Optional[str] = None
 
 class Order(PBase):
-    items: List[OrderItem] = []
+    items: List[OrderItem] = Field(default_factory=list)
     delivery_date: Optional[str] = None
     payment_method: Optional[str] = None
-    contact: Contact = Contact()
+    contact: Contact = Field(default_factory=Contact)
 
 STATE: Dict[str, Any] = {
     "status": "new",

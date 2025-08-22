@@ -1,0 +1,2807 @@
+[
+  {
+    "ItemId": 253443,
+    "ItemName": "24 CARATS MITHAI MAGIC GIFT BOX",
+    "Description": "All kind of dry fruit sweets ",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349760",
+        "SizeName": "250 gm",
+        "Price": 325
+      },
+      {
+        "SizeId": "349761",
+        "SizeName": "500 gm",
+        "Price": 650
+      },
+      {
+        "SizeId": "349762",
+        "SizeName": "1 kg",
+        "Price": 1300
+      }
+    ],
+    "CategoryId": 36167,
+    "CategoryName": "24 CARATS MITHAI MAGIC GIFT BOX"
+  },
+  {
+    "ItemId": 253444,
+    "ItemName": "ROYAL SPECIAL GIFT BOX",
+    "Description": "Mix of kaju katri and dry fruit sweets ",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349884",
+        "SizeName": "250 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "349885",
+        "SizeName": "500 gm",
+        "Price": 600
+      },
+      {
+        "SizeId": "349886",
+        "SizeName": "1 kg",
+        "Price": 1200
+      }
+    ],
+    "CategoryId": 36167,
+    "CategoryName": "24 CARATS MITHAI MAGIC GIFT BOX"
+  },
+  {
+    "ItemId": 253445,
+    "ItemName": "MIX KAJU KATRI GIFT BOX",
+    "Description": "All kind of mix kaju katriu ",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348566",
+        "SizeName": "1 kg",
+        "Price": 1100
+      },
+      {
+        "SizeId": "348567",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "348568",
+        "SizeName": "250 gm",
+        "Price": 275
+      }
+    ],
+    "CategoryId": 36167,
+    "CategoryName": "24 CARATS MITHAI MAGIC GIFT BOX"
+  },
+  {
+    "ItemId": 260035,
+    "ItemName": "MIX MITHAI ( MIX MAWA SWEETS )",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349823",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "349824",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "349825",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 36167,
+    "CategoryName": "24 CARATS MITHAI MAGIC GIFT BOX"
+  },
+  {
+    "ItemId": 133125,
+    "ItemName": "Royal Kesari Ghevar",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348823",
+        "SizeName": "1 kg",
+        "Price": 700
+      },
+      {
+        "SizeId": "348824",
+        "SizeName": "500 gm",
+        "Price": 350
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 133223,
+    "ItemName": "Magaj",
+    "Description": "A rich, dense sweet made with roasted gram flour and pure ghee.",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348614",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348615",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348616",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 133224,
+    "ItemName": "Mysore Pak",
+    "Description": "A South Indian-inspired fudge with a creamy, nutty flavor.",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "330956",
+        "SizeName": "250 gm",
+        "Price": 170
+      },
+      {
+        "SizeId": "330957",
+        "SizeName": "500 gm",
+        "Price": 340
+      },
+      {
+        "SizeId": "330958",
+        "SizeName": "1 kg",
+        "Price": 680
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 259773,
+    "ItemName": "BADAM SONPAPDI",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349765",
+        "SizeName": "250 gm",
+        "Price": 150
+      },
+      {
+        "SizeId": "349766",
+        "SizeName": "500 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "349767",
+        "SizeName": "1 kg",
+        "Price": 600
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 259774,
+    "ItemName": "KESAR SUTERFENI",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348608",
+        "SizeName": "1 kg",
+        "Price": 700
+      },
+      {
+        "SizeId": "348609",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348610",
+        "SizeName": "250 gm",
+        "Price": 175
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 259775,
+    "ItemName": "MOHANTHAL",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349871",
+        "SizeName": "250 gm",
+        "Price": 160
+      },
+      {
+        "SizeId": "349872",
+        "SizeName": "500 gm",
+        "Price": 320
+      },
+      {
+        "SizeId": "349873",
+        "SizeName": "1 kg",
+        "Price": 640
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 259776,
+    "ItemName": "KHAJLI",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349810",
+        "SizeName": "250 gm",
+        "Price": 170
+      },
+      {
+        "SizeId": "349811",
+        "SizeName": "500 gm",
+        "Price": 340
+      },
+      {
+        "SizeId": "349812",
+        "SizeName": "1 kg",
+        "Price": 680
+      }
+    ],
+    "CategoryId": 36166,
+    "CategoryName": "ADDITIONAL  SWEETS"
+  },
+  {
+    "ItemId": 253437,
+    "ItemName": "Trafic Jam",
+    "Description": " A vibrant mix of colorful sweets in one delightful package.",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "330914",
+        "SizeName": "250 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "330915",
+        "SizeName": "500 gm",
+        "Price": 600
+      },
+      {
+        "SizeId": "330916",
+        "SizeName": "1 kg",
+        "Price": 1200
+      }
+    ],
+    "CategoryId": 36165,
+    "CategoryName": "HANDCRAFTED DRYFRUITS SWEETS"
+  },
+  {
+    "ItemId": 253438,
+    "ItemName": "Kaju Roll",
+    "Description": "Cylindrical cashew fudge rolled to perfection for a royal treat.",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "330917",
+        "SizeName": "250 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "330918",
+        "SizeName": "500 gm",
+        "Price": 600
+      },
+      {
+        "SizeId": "330919",
+        "SizeName": "1 kg",
+        "Price": 1200
+      }
+    ],
+    "CategoryId": 36165,
+    "CategoryName": "HANDCRAFTED DRYFRUITS SWEETS"
+  },
+  {
+    "ItemId": 253439,
+    "ItemName": "Anjeer Roll",
+    "Description": " Fig and dry fruit rolled into a chewy, nutritious dessert.",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "330920",
+        "SizeName": "250 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "330921",
+        "SizeName": "500 gm",
+        "Price": 600
+      },
+      {
+        "SizeId": "330922",
+        "SizeName": "1 kg",
+        "Price": 1200
+      }
+    ],
+    "CategoryId": 36165,
+    "CategoryName": "HANDCRAFTED DRYFRUITS SWEETS"
+  },
+  {
+    "ItemId": 253558,
+    "ItemName": "GARLIC TOAST 150GM",
+    "Description": "Crispy, golden-brown toast with a burst of garlic flavor—perfectly buttery and aromatic, just like homemade comfort food.",
+    "Price": 150,
+    "SizeId": "339013",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253566,
+    "ItemName": "HONEY OATS COOKIES 200GM",
+    "Description": "A healthy yet delicious combination of oats and honey, offering a sweet treat with a wholesome, chewy texture.",
+    "Price": 200,
+    "SizeId": "339018",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253571,
+    "ItemName": "PLAIN KHARI 160GM",
+    "Description": "Flaky, buttery puff pastry that’s perfectly crisp with a light, delicate texture—ideal for those who love simplicity in every bite.\t\t\t\t\r\n",
+    "Price": 75,
+    "SizeId": "339024",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253574,
+    "ItemName": "JEERA KHARI 160GM",
+    "Description": "A savory, flaky puff pastry with the warm, aromatic flavor of cumin seeds—just the right touch of spice for a delightful snack.\t\t\t\t\r\n",
+    "Price": 85,
+    "SizeId": "339027",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253584,
+    "ItemName": "WHITE BREAD 380GM",
+    "Description": "Soft, pillowy white bread that’s perfect for making sandwiches, or simply enjoy it fresh with butter and jam for a simple treat.\t\t\t\t\r\n",
+    "Price": 40,
+    "SizeId": "349251",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253588,
+    "ItemName": "AATA BREAD 420GM",
+    "Description": "Whole wheat bread that’s rich in fiber, giving you a healthier option without compromising on taste. Perfect for sandwiches or as a side to your meal.\t\t\t\t\r\n",
+    "Price": 50,
+    "SizeId": "344310",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253590,
+    "ItemName": "CHOCO LAVA CAKE 90GM",
+    "Description": "A warm, gooey chocolate cake with a molten center that flows out like lava—pure chocolate bliss in every bite.\t\t\t\t\r\n",
+    "Price": 60,
+    "SizeId": "344312",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253591,
+    "ItemName": "BLACK FOREST CAKE 250GM",
+    "Description": "A classic indulgence with layers of moist chocolate sponge, fresh whipped cream, and cherries—this one’s for all the chocolate lovers out there.\t\t\t\t\r\n",
+    "Price": 250,
+    "SizeId": "349291",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253593,
+    "ItemName": "PINEAPPLE CAKE 250GM",
+    "Description": "Fresh, tropical pineapple layered in a soft, spongy cake, creating a refreshing and deliciously sweet treat.\t\t\t\t\r\n",
+    "Price": 250,
+    "SizeId": "349266",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253594,
+    "ItemName": "BELGIUM CHOCOLATE CAKE 250GM",
+    "Description": "A rich, velvety cake made with premium Belgian chocolate—because you deserve nothing but the best.\t\t\t\t\r\n",
+    "Price": 350,
+    "SizeId": "344315",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253595,
+    "ItemName": "RED VELVET CAKE 250GM",
+    "Description": "A stunning, soft red cake with a light cocoa flavor, topped with creamy cheese frosting—a truly luxurious treat.\t\t\t\t\r\n",
+    "Price": 300,
+    "SizeId": "349260",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253596,
+    "ItemName": "OPIUM CHOCOCHIP CAKE 250GM",
+    "Description": "A decadent chocolate chip cake that’s hard to resist. Every bite is pure, chocolatey indulgence that keeps you coming back for more.\t\t\t\t\r\n",
+    "Price": 300,
+    "SizeId": "349271",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253600,
+    "ItemName": "HAZELNUT MOUSSE BOX",
+    "Description": "250\tSilky smooth hazelnut mousse layered in a box, creating an irresistible dessert that’s as indulgent as it is delicious.\t\t\t\t\r\n",
+    "Price": 200,
+    "SizeId": "344322",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253604,
+    "ItemName": "HAZELNUT ROCHER PASTRY 200GM",
+    "Description": "A luxurious pastry filled with hazelnut cream and topped with crunchy Rocher pieces for that extra indulgent touch.\t\t\t\t\r\n",
+    "Price": 200,
+    "SizeId": "349278",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253606,
+    "ItemName": "BLACK FOREST PASTRY 100GM",
+    "Description": "Layers of chocolate sponge, whipped cream, and cherries in a bite-sized pastry—a little indulgence that’s big on flavor.\t\t\t\t\r\n",
+    "Price": 100,
+    "SizeId": "349287",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253607,
+    "ItemName": "PINEAPPLE PASTRY 100GM",
+    "Description": "A light, fluffy cake topped with fresh pineapple and a creamy finish—refreshing and satisfying in every bite.\t\t\t\t\r\n",
+    "Price": 100,
+    "SizeId": "349265",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253608,
+    "ItemName": "BELGIUM CHOCOLATE PASTRY\t100GM",
+    "Description": "A luxurious pastry filled with smooth Belgian chocolate cream, topped with cocoa—because chocolate should always be this rich.\t\t\t\t\r\n",
+    "Price": 180,
+    "SizeId": "349294",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253609,
+    "ItemName": "RED VELVET PASTRY 100GM",
+    "Description": "Red velvet cake in miniature form, topped with rich cream cheese frosting—soft, velvety, and utterly irresistible.\t\t\t\t\r\n",
+    "Price": 120,
+    "SizeId": "349261",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253611,
+    "ItemName": "OPIUM CHOCOCHIP PASTRY 100GM",
+    "Description": "A sweet, rich pastry filled with decadent chocolate chips that melts in your mouth. Chocolate lovers won’t want to miss this!\t\t\t\t\r\n",
+    "Price": 120,
+    "SizeId": "349270",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253616,
+    "ItemName": "PUFF",
+    "Description": "Buttery, flaky pastry pockets that can be filled with your choice of savory or sweet fillings—a simple yet satisfying snack.\t\t\t\t\r\n",
+    "Price": 30,
+    "SizeId": "344330",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253617,
+    "ItemName": "WALNUT BROWNIE",
+    "Description": "63\tRich and fudgy brownies with a crunchy walnut twist—perfect for anyone who loves a decadent, nutty treat.\t\t\t\t\r\n",
+    "Price": 80,
+    "SizeId": "344331",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253618,
+    "ItemName": "SOURDOUGH 350GM",
+    "Description": "This tangy, chewy bread is made with love and tradition. Perfect for sandwiches or to enjoy on its own with a touch of butter.\t\t\t\t\r\n",
+    "Price": 220,
+    "SizeId": "349258",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253619,
+    "ItemName": "CHOCOLATE BROWNIE 50GM",
+    "Description": "Deep, rich, and fudgy chocolate brownies that are a chocolate lover’s dream. Gooey and decadent, they’re hard to resist.\t\t\t\t\r\n",
+    "Price": 70,
+    "SizeId": "344333",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253620,
+    "ItemName": "CROISSANT TOAST 150GM",
+    "Description": "Crispy, buttery croissant slices toasted to perfection—simple, delicious, and the perfect start to your day.\t\t\t\t\r\n",
+    "Price": 240,
+    "SizeId": "339031",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253621,
+    "ItemName": "CROISSANT 70GM",
+    "Description": "Flaky, buttery layers that melt in your mouth. These croissants are light, airy, and delicious—just like they should be.\t\t\t\t\r\n",
+    "Price": 90,
+    "SizeId": "345203",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 253622,
+    "ItemName": "CHOCOLATE CROISSANT\t105GM",
+    "Description": "A buttery croissant filled with melted chocolate, offering the perfect combination of rich, sweet, and flaky.\t\t\t\t\r\n",
+    "Price": 160,
+    "SizeId": "344335",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 256944,
+    "ItemName": "RICH NUT COOKIES(200 GM)",
+    "Description": "",
+    "Price": 250,
+    "SizeId": "339015",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259753,
+    "ItemName": "TILL GUD CRUNCH",
+    "Description": "",
+    "Price": 200,
+    "SizeId": "349257",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259754,
+    "ItemName": "DESI GRAM BITES",
+    "Description": "",
+    "Price": 180,
+    "SizeId": "349281",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259755,
+    "ItemName": "VELVET CRUNCH",
+    "Description": "",
+    "Price": 150,
+    "SizeId": "349255",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259756,
+    "ItemName": "MUTLI SEED BREAD",
+    "Description": "",
+    "Price": 60,
+    "SizeId": "344311",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259757,
+    "ItemName": "BLUEBERRY CAKE",
+    "Description": "",
+    "Price": 250,
+    "SizeId": "344318",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259758,
+    "ItemName": "TIRAMISO GO BOX",
+    "Description": "",
+    "Price": 200,
+    "SizeId": "344319",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259759,
+    "ItemName": "TRESLECHES GO BOX",
+    "Description": "",
+    "Price": 200,
+    "SizeId": "344320",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259760,
+    "ItemName": "BISCOFF GO BOX",
+    "Description": "",
+    "Price": 200,
+    "SizeId": "344321",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259761,
+    "ItemName": "BLUEBERRY PASTRY",
+    "Description": "",
+    "Price": 100,
+    "SizeId": "349285",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259762,
+    "ItemName": "CHOCOCHIPS MUFFINS",
+    "Description": "",
+    "Price": 60,
+    "SizeId": "344329",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259763,
+    "ItemName": "NANKHATAI",
+    "Description": "",
+    "Price": 600,
+    "SizeId": "344336",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259764,
+    "ItemName": "NAMKEEN",
+    "Description": "",
+    "Price": 90,
+    "SizeId": "344337",
+    "SizeListWidget": [],
+    "CategoryId": 36195,
+    "CategoryName": "Backery"
+  },
+  {
+    "ItemId": 259770,
+    "ItemName": "MOTICHUR LADDU",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348590",
+        "SizeName": "1 kg",
+        "Price": 560
+      },
+      {
+        "SizeId": "348591",
+        "SizeName": "500 gm",
+        "Price": 280
+      },
+      {
+        "SizeId": "348592",
+        "SizeName": "250 gm",
+        "Price": 140
+      }
+    ],
+    "CategoryId": 20319,
+    "CategoryName": "Laddu"
+  },
+  {
+    "ItemId": 259771,
+    "ItemName": "BESAN LADDU",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349769",
+        "SizeName": "250 gm",
+        "Price": 150
+      },
+      {
+        "SizeId": "349770",
+        "SizeName": "500 gm",
+        "Price": 300
+      },
+      {
+        "SizeId": "349771",
+        "SizeName": "1 kg",
+        "Price": 600
+      }
+    ],
+    "CategoryId": 20319,
+    "CategoryName": "Laddu"
+  },
+  {
+    "ItemId": 260038,
+    "ItemName": "DRYFRUIT LADDU",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349784",
+        "SizeName": "250 gm",
+        "Price": 160
+      },
+      {
+        "SizeId": "349785",
+        "SizeName": "500 gm",
+        "Price": 320
+      },
+      {
+        "SizeId": "349786",
+        "SizeName": "1 kg",
+        "Price": 640
+      }
+    ],
+    "CategoryId": 20319,
+    "CategoryName": "Laddu"
+  },
+  {
+    "ItemId": 133143,
+    "ItemName": "Surat Spl Gift Box",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "207524",
+        "SizeName": "1 kg",
+        "Price": 580
+      }
+    ],
+    "CategoryId": 20315,
+    "CategoryName": "Assorted Boxes"
+  },
+  {
+    "ItemId": 133145,
+    "ItemName": "Royal Sp Gift Box",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "207526",
+        "SizeName": "1 kg",
+        "Price": 990
+      }
+    ],
+    "CategoryId": 20315,
+    "CategoryName": "Assorted Boxes"
+  },
+  {
+    "ItemId": 133146,
+    "ItemName": "24 CARAT Mithai Magic Gift Box",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "213111",
+        "SizeName": "1 kg",
+        "Price": 1480
+      }
+    ],
+    "CategoryId": 20315,
+    "CategoryName": "Assorted Boxes"
+  },
+  {
+    "ItemId": 133147,
+    "ItemName": "Gold Leaf Sweets Box",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "207528",
+        "SizeName": "1 kg",
+        "Price": 9000
+      }
+    ],
+    "CategoryId": 20315,
+    "CategoryName": "Assorted Boxes"
+  },
+  {
+    "ItemId": 156982,
+    "ItemName": "Organic Sugar Free",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "207530",
+        "SizeName": "1 kg",
+        "Price": 2500
+      }
+    ],
+    "CategoryId": 20315,
+    "CategoryName": "Assorted Boxes"
+  },
+  {
+    "ItemId": 133090,
+    "ItemName": "White Barfi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348781",
+        "SizeName": "250 gm",
+        "Price": 165
+      },
+      {
+        "SizeId": "348782",
+        "SizeName": "500 gm",
+        "Price": 330
+      },
+      {
+        "SizeId": "348783",
+        "SizeName": "1 kg",
+        "Price": 660
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133091,
+    "ItemName": "Deluxe Dudhi Halwa",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348784",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348785",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348786",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133094,
+    "ItemName": "Milk Chocolate",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348787",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348788",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348789",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133095,
+    "ItemName": "Tirangi Barfi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348790",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348791",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348792",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133096,
+    "ItemName": "Orange Ripple",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349874",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "349875",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "349876",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133097,
+    "ItemName": "Anjeer Kaju",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348796",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348797",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348798",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133099,
+    "ItemName": "Dudh Badam",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348802",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348803",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348804",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133101,
+    "ItemName": "Kaju Gulkand",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348805",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348806",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348807",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133105,
+    "ItemName": "Milk Cake",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348808",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348809",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348810",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133106,
+    "ItemName": "Akhrot Plaza",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348811",
+        "SizeName": "250 gm",
+        "Price": 185
+      },
+      {
+        "SizeId": "348812",
+        "SizeName": "500 gm",
+        "Price": 370
+      },
+      {
+        "SizeId": "348813",
+        "SizeName": "1 kg",
+        "Price": 740
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133107,
+    "ItemName": "Dryfruit Halwa",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349779",
+        "SizeName": "250 gm",
+        "Price": 185
+      },
+      {
+        "SizeId": "349780",
+        "SizeName": "500 gm",
+        "Price": 370
+      },
+      {
+        "SizeId": "349781",
+        "SizeName": "1 kg",
+        "Price": 740
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 133108,
+    "ItemName": "Black Forest",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348820",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "348821",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "348822",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 259772,
+    "ItemName": "BUTTERSCOTCH",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349774",
+        "SizeName": "250 gm",
+        "Price": 175
+      },
+      {
+        "SizeId": "349775",
+        "SizeName": "500 gm",
+        "Price": 350
+      },
+      {
+        "SizeId": "349776",
+        "SizeName": "1 kg",
+        "Price": 700
+      }
+    ],
+    "CategoryId": 20312,
+    "CategoryName": "Mawa Sweets"
+  },
+  {
+    "ItemId": 259765,
+    "ItemName": "WHITE KAJU KATRI",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348766",
+        "SizeName": "1 kg",
+        "Price": 1100
+      },
+      {
+        "SizeId": "348767",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "348768",
+        "SizeName": "250 gm",
+        "Price": 275
+      }
+    ],
+    "CategoryId": 20318,
+    "CategoryName": "Kajukatri"
+  },
+  {
+    "ItemId": 259766,
+    "ItemName": "KASHMIRI KESAR KATRI",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348575",
+        "SizeName": "1 kg",
+        "Price": 1200
+      },
+      {
+        "SizeId": "348576",
+        "SizeName": "500 gm",
+        "Price": 600
+      },
+      {
+        "SizeId": "348577",
+        "SizeName": "250 gm",
+        "Price": 300
+      }
+    ],
+    "CategoryId": 20318,
+    "CategoryName": "Kajukatri"
+  },
+  {
+    "ItemId": 259767,
+    "ItemName": "KAJU ANJEER CHAKRA",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349794",
+        "SizeName": "250 gm",
+        "Price": 280
+      },
+      {
+        "SizeId": "349795",
+        "SizeName": "500 gm",
+        "Price": 580
+      },
+      {
+        "SizeId": "349796",
+        "SizeName": "1 kg",
+        "Price": 1160
+      }
+    ],
+    "CategoryId": 20318,
+    "CategoryName": "Kajukatri"
+  },
+  {
+    "ItemId": 133121,
+    "ItemName": "Badam Pista Ghari",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348760",
+        "SizeName": "250 gm",
+        "Price": 240
+      },
+      {
+        "SizeId": "348761",
+        "SizeName": "500 gm",
+        "Price": 480
+      },
+      {
+        "SizeId": "348762",
+        "SizeName": "1 kg",
+        "Price": 960
+      }
+    ],
+    "CategoryId": 20313,
+    "CategoryName": "Ghari and Suterfeni"
+  },
+  {
+    "ItemId": 133122,
+    "ItemName": "Kesar Pista Badam  Ghari",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "348763",
+        "SizeName": "250 gm",
+        "Price": 250
+      },
+      {
+        "SizeId": "348764",
+        "SizeName": "500 gm",
+        "Price": 500
+      },
+      {
+        "SizeId": "348765",
+        "SizeName": "1 kg",
+        "Price": 1000
+      }
+    ],
+    "CategoryId": 20313,
+    "CategoryName": "Ghari and Suterfeni"
+  },
+  {
+    "ItemId": 133157,
+    "ItemName": "Indrapuri",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216709",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216710",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216711",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133159,
+    "ItemName": "Kaju Roll",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216712",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216713",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216714",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133160,
+    "ItemName": "Anjir Roll",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216715",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216716",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216717",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133161,
+    "ItemName": "Pista Cone",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216718",
+        "SizeName": "250 gm",
+        "Price": 340
+      },
+      {
+        "SizeId": "216719",
+        "SizeName": "500 gm",
+        "Price": 680
+      },
+      {
+        "SizeId": "216720",
+        "SizeName": "1 kg",
+        "Price": 1360
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133163,
+    "ItemName": "Kaju Melon",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175402",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175403",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175404",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133164,
+    "ItemName": "Berry Delight",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175405",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175406",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175407",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133165,
+    "ItemName": "Kaju Mango",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175408",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175409",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175410",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133166,
+    "ItemName": "Dil Se",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216721",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216722",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216723",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133167,
+    "ItemName": "Anjir Garden",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216724",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216725",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216726",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133168,
+    "ItemName": "Dryfruit Pizza",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175417",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175418",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175419",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133169,
+    "ItemName": "Dryfruit Kalash",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216730",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216731",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216732",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133170,
+    "ItemName": "Kesariya Kaju Jalebi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216739",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216740",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216741",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133171,
+    "ItemName": "Traffic Jam",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216745",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216746",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216747",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133172,
+    "ItemName": "White Choco Ball",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175429",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175430",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175431",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133173,
+    "ItemName": "Dark Choco Ball",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175432",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175433",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175434",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133174,
+    "ItemName": "Chocolate Pie",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175435",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175436",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175437",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133175,
+    "ItemName": "Amrut Bahar (Tangy Guava)",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175438",
+        "SizeName": "250 gm",
+        "Price": 275
+      },
+      {
+        "SizeId": "175439",
+        "SizeName": "500 gm",
+        "Price": 550
+      },
+      {
+        "SizeId": "175440",
+        "SizeName": "1 kg",
+        "Price": 1100
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 133176,
+    "ItemName": "Kaju Veni",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216757",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216758",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216759",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156924,
+    "ItemName": "Kaju Fancy",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216763",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216764",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216765",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156925,
+    "ItemName": "Tulsi Vati",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216769",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216770",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216771",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156926,
+    "ItemName": "Chandni",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216772",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216773",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216774",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156927,
+    "ItemName": "Dryfruit Bouque",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216778",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216779",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216780",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156928,
+    "ItemName": "Badam ki Bahar",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216781",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216782",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216783",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156929,
+    "ItemName": "Lal Badshah",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216784",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216785",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216786",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156930,
+    "ItemName": "Kaju ki Makai",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216787",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216788",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216789",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156931,
+    "ItemName": "Anjir Malhar",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216793",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216794",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216795",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156932,
+    "ItemName": "Pineapple Karishma",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216799",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216800",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216801",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156933,
+    "ItemName": "Krishna Kasturi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216802",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216803",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216804",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156934,
+    "ItemName": "Valentine",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216805",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216806",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216807",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156935,
+    "ItemName": "Anjir Karishma",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216811",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216812",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216813",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156936,
+    "ItemName": "Nargis kalam",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216820",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216821",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216822",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156937,
+    "ItemName": "Tohfa",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216826",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216827",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216828",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156938,
+    "ItemName": "Kuch Kuch",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216829",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216830",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216831",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156939,
+    "ItemName": "Kalingar",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216832",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216833",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216834",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156940,
+    "ItemName": "Anaar Diamond",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216835",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216836",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216837",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156941,
+    "ItemName": "Krishna tulsi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216838",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216839",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216840",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156942,
+    "ItemName": "Strawberry",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216841",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216842",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216843",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156943,
+    "ItemName": "Casata cut",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216844",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216845",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216846",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156944,
+    "ItemName": "Kesari cone",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216847",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216848",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216849",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156945,
+    "ItemName": "Honey due",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216850",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216851",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216852",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156946,
+    "ItemName": "Strawberry delight",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216859",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216860",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216861",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156947,
+    "ItemName": "Dryfruit Tokoz",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216862",
+        "SizeName": "250 gm",
+        "Price": 285
+      },
+      {
+        "SizeId": "216863",
+        "SizeName": "500 gm",
+        "Price": 570
+      },
+      {
+        "SizeId": "216864",
+        "SizeName": "1 kg",
+        "Price": 1140
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156949,
+    "ItemName": "Pista roll",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216868",
+        "SizeName": "250 gm",
+        "Price": 340
+      },
+      {
+        "SizeId": "216869",
+        "SizeName": "500 gm",
+        "Price": 680
+      },
+      {
+        "SizeId": "216870",
+        "SizeName": "1 kg",
+        "Price": 1360
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 156950,
+    "ItemName": "Pista Kabuli Kand",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "216871",
+        "SizeName": "250 gm",
+        "Price": 340
+      },
+      {
+        "SizeId": "216872",
+        "SizeName": "500 gm",
+        "Price": 680
+      },
+      {
+        "SizeId": "216873",
+        "SizeName": "1 kg",
+        "Price": 1360
+      }
+    ],
+    "CategoryId": 20317,
+    "CategoryName": "Dryfruit Sweets"
+  },
+  {
+    "ItemId": 259768,
+    "ItemName": "ELAICHI MALAI PEDA",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349789",
+        "SizeName": "250 gm",
+        "Price": 155
+      },
+      {
+        "SizeId": "349790",
+        "SizeName": "500 gm",
+        "Price": 310
+      },
+      {
+        "SizeId": "349791",
+        "SizeName": "1 kg",
+        "Price": 620
+      }
+    ],
+    "CategoryId": 20321,
+    "CategoryName": "Peda"
+  },
+  {
+    "ItemId": 259769,
+    "ItemName": "RAJBHOG PEDA",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349877",
+        "SizeName": "250 gm",
+        "Price": 160
+      },
+      {
+        "SizeId": "349878",
+        "SizeName": "500 gm",
+        "Price": 320
+      },
+      {
+        "SizeId": "349879",
+        "SizeName": "1 kg",
+        "Price": 640
+      }
+    ],
+    "CategoryId": 20321,
+    "CategoryName": "Peda"
+  },
+  {
+    "ItemId": 260036,
+    "ItemName": "SURTI PEDA",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349887",
+        "SizeName": "250 gm",
+        "Price": 145
+      },
+      {
+        "SizeId": "349888",
+        "SizeName": "500 gm",
+        "Price": 290
+      },
+      {
+        "SizeId": "349889",
+        "SizeName": "1 kg",
+        "Price": 580
+      }
+    ],
+    "CategoryId": 20321,
+    "CategoryName": "Peda"
+  },
+  {
+    "ItemId": 260037,
+    "ItemName": "KESAR MALAI PEDA",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "349803",
+        "SizeName": "250 gm",
+        "Price": 160
+      },
+      {
+        "SizeId": "349804",
+        "SizeName": "500 gm",
+        "Price": 320
+      },
+      {
+        "SizeId": "349805",
+        "SizeName": "1 kg",
+        "Price": 640
+      }
+    ],
+    "CategoryId": 20321,
+    "CategoryName": "Peda"
+  },
+  {
+    "ItemId": 133226,
+    "ItemName": "Farsi Puri",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "206532",
+        "SizeName": "250 gm",
+        "Price": 135
+      },
+      {
+        "SizeId": "206533",
+        "SizeName": "500 gm",
+        "Price": 270
+      },
+      {
+        "SizeId": "206534",
+        "SizeName": "1 kg",
+        "Price": 540
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 133227,
+    "ItemName": "Balu Shahi",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "175516",
+        "SizeName": "250 gm",
+        "Price": 125
+      },
+      {
+        "SizeId": "175517",
+        "SizeName": "500 gm",
+        "Price": 250
+      },
+      {
+        "SizeId": "175518",
+        "SizeName": "1 kg",
+        "Price": 500
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 156952,
+    "ItemName": "Motipak",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "206505",
+        "SizeName": "250 gm",
+        "Price": 135
+      },
+      {
+        "SizeId": "206506",
+        "SizeName": "500 gm",
+        "Price": 270
+      },
+      {
+        "SizeId": "206507",
+        "SizeName": "1 kg",
+        "Price": 540
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 156957,
+    "ItemName": "Maisur",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "206526",
+        "SizeName": "250 gm",
+        "Price": 135
+      },
+      {
+        "SizeId": "206527",
+        "SizeName": "500 gm",
+        "Price": 270
+      },
+      {
+        "SizeId": "206528",
+        "SizeName": "1 kg",
+        "Price": 540
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 156958,
+    "ItemName": "Buscuit",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "206535",
+        "SizeName": "250 gm",
+        "Price": 135
+      },
+      {
+        "SizeId": "206536",
+        "SizeName": "500 gm",
+        "Price": 270
+      },
+      {
+        "SizeId": "206537",
+        "SizeName": "1 kg",
+        "Price": 540
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 156959,
+    "ItemName": "Gagan",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "213128",
+        "SizeName": "250 gm",
+        "Price": 195
+      },
+      {
+        "SizeId": "213129",
+        "SizeName": "500 gm",
+        "Price": 390
+      },
+      {
+        "SizeId": "213130",
+        "SizeName": "1 kg",
+        "Price": 780
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  },
+  {
+    "ItemId": 156960,
+    "ItemName": "Dahithara",
+    "Description": "",
+    "Price": null,
+    "SizeId": null,
+    "SizeListWidget": [
+      {
+        "SizeId": "206550",
+        "SizeName": "250 gm",
+        "Price": 135
+      },
+      {
+        "SizeId": "206551",
+        "SizeName": "500 gm",
+        "Price": 270
+      },
+      {
+        "SizeId": "206552",
+        "SizeName": "1 kg",
+        "Price": 540
+      }
+    ],
+    "CategoryId": 20320,
+    "CategoryName": "Desi Ghee Sweets"
+  }
+]

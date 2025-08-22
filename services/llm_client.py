@@ -9,37 +9,37 @@ load_dotenv()
 
 GEMINI_API_KEY=os.getenv("GEMINI_API_KEY")
 MODEL = "gemini-1.5-flash"
+
 class GeminiClient:
     def __init__(self, model=MODEL):
         self.model = genai.GenerativeModel(model)
 
     def clean_json(self, raw: str) -> str:
-        """Extract first valid JSON object from Gemini output."""
-        # Find first '{' and last '}' and slice the string
-        start = raw.find("{")
-        end = raw.rfind("}")
-        if start != -1 and end != -1:
-            json_str = raw[start:end+1]
-            try:
-                # Validate JSON
-                parsed = json.loads(json_str)
-                return json.dumps(parsed)  # valid JSON string
-            except json.JSONDecodeError as e:
-                print("JSON parse error:", e)
-                return "{}"
-        else:
+        # Remove markdown fences
+        raw = re.sub(r"```json|```", "", raw).strip()
+        match = re.search(r"\{.*\}", raw, re.DOTALL)
+        if not match:
             return "{}"
+        try:
+            parsed = json.loads(match.group(0))
+            return json.dumps(parsed)
+        except json.JSONDecodeError:
+            return "{}"
+
 
     async def extract_order(self, user_message: str) -> Order:
         prompt = f"""
-        Extract order details as JSON with fields:
-        - items: list of {{name, qty, size_or_weight}}
-        - delivery_date
-        - payment_method
-        - contact: {{name, phone, address}}
+        Extract order details from the user message.
+        Return strictly this JSON structure:
+        {{
+            "items": [{{"name": "...", "qty": int, "size_or_weight": "..."}}],
+            "delivery_date": "...",
+            "payment_method": "...",
+            "contact": {{"name": "...", "phone": "...", "address": "..."}}
+        }}
 
         User: {user_message}
-        Output JSON only.
+        JSON only. No text explanation.
         """
 
         resp = await self.model.generate_content_async(prompt)
