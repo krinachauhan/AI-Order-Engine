@@ -17,16 +17,18 @@ class ClarificationAgent:
         # --- Handle item name fuzzy matching ---
         corrected_items = []
         for item in order.items:
-            status, best, suggestions, _ = fuzzy_match_item(item.name)
+            status, best, suggestions = fuzzy_match_item(item.name)
 
             if status == "high_confidence":
-                item.name = best["ItemName"]  # silently fix
+                # ✅ best is a string → use directly
+                item.name = best  
 
             elif status == "suggest":
                 missing.append("items.name")
                 assistant_messages.append(
-                    f"I couldn’t find an exact match for **{item.name}**. Did you mean one of these?\n" +
-                    "\n".join(f"- {s['ItemName']}" for s in suggestions)
+                    f"I couldn’t find an exact match for **{item.name}**. "
+                    f"Did you mean one of these?\n" +
+                    "\n".join(f"- {s}" for s in suggestions)  # ✅ suggestions are strings
                 )
 
             else:
@@ -72,4 +74,3 @@ class ClarificationAgent:
             "order": order.model_dump(),
             "assistant_message": "✅ All information received."
         }
-    
